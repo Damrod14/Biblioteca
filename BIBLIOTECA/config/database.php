@@ -2,10 +2,10 @@
 
 class Database{
 
-    private $hostname = "localhost";
-    private $database = "biblioteca";
+    private $hostname = "roundhouse.proxy.rlwy.net";
+    private $database = "railway";
     private $username = "root";
-    private $password = "";
+    private $password = "ZbVxMUWCajbqYaSSeAXxeVjcRibWrMdO";
     private $charset = "utf8mb4";
 
     function conectar()
